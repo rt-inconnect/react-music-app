@@ -1,10 +1,10 @@
-# react-isomorphic-seed
+# react-music-app
 
-![React Isomorphic Seed](https://s3-us-west-2.amazonaws.com/devmag-engineering-blog/react-isomorphic-seed-1.jpg)
+![web-app](https://cloud.githubusercontent.com/assets/9130018/12940732/df486d8e-cfed-11e5-9e3f-03e77c25bb0e.png)
 
-A seed project for creating Isomorphic apps with React and Flux architecture
+![mobile-app](https://cloud.githubusercontent.com/assets/9130018/12940712/a8ac55ec-cfed-11e5-8a20-1f296f02018a.png)
 
-Read full article [here](http://engineering.devmag.io/post/1/creating-an-isomorphic-blogging-app-using-react-and-flux)
+Isomorphic Music Web App with React and Flux architecture
 
 ### How to run 
 
